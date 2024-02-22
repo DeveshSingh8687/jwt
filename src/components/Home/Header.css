@@ -1,0 +1,13 @@
+.main {}
+
+.heading {}
+
+.lists {
+    list-style-type: none;
+    overflow-x: hidden;
+    white-space: nowrap;
+    height: 2em;
+    width: 100%;
+    /* background-color: red; */
+}
+li{display:inline}
